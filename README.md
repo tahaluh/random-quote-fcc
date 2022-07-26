@@ -19,6 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Html
 - Css
+- Bootstrap
 - Javascript
 - Jquery
 
