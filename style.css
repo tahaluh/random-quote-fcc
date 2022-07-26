@@ -1,0 +1,41 @@
+body {
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(44, 62, 80);
+  }
+  
+  #quote-box {
+    background-color: #fff;
+    padding: 40px 50px;
+    min-width: 600px;
+    width: 25%;
+    border-radius: 10px;
+  }
+  
+  .quote-div {
+    font-size: 1.75em;
+  }
+  
+  .quote-author {
+    text-align: right;
+  }
+  
+  .button {
+    cursor:pointer;
+    border: none;
+    color: #fff;
+    background-color: #333;
+    border-radius: 7px;
+    float: left;
+    font-size: 0.9em;
+    padding: 0.7em 1.3em;
+    margin-right: 0.5em;
+    margin-top: 1.7rem;
+  }
+  
+  #new-quote {
+    float: right;
+  }
