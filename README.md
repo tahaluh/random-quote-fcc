@@ -10,7 +10,7 @@
 
 > A página se comporta como uma máquina que exibe citações "aleatórias"
 
-<h4 align="center"><a href="https://tahaluh.github.io/random-quote-fcc/ target="_blank"" >Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://tahaluh.github.io/random-quote-fcc/" target="_blank" >Clique para visitar o projeto</a></h4>
 
 ---
 # 💼 Tecnologias Utilizadas
