@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Conexão com API
-- [ ] Tarefa 4
+- [ ] Integrar o uso de React em substituição ao Jquery
 
 ---
 
